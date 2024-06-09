@@ -1,4 +1,14 @@
-*Rachel Bober*
+*View RachelBober's full-sized avatar
+RachelBober
+RachelBober
+Lab Manager in Mass Lab, Haifa University, Israel
+ 1 follower · 0 following
+University of Haifa
+rbober@univ.haifa.ac.il
+@rachelbober
+Organizations
+@Mass-Lab
+*
 
 
 
