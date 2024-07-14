@@ -7,7 +7,7 @@ tags: [ Stability Chamber, instructions ]
 ### Stability Chambers- Fitoclima 600 AraLab  instructions
 
 ![ Stability Chamber-
- Fitoclima 600 AraLab ](C:\Users\User\Documents\GitHub\RachelBober_Lab_Notebook.jpg)
+ Fitoclima 600 AraLab ](C:\Users\User\OneDrive - Haifa University\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)
 
 ### Click here for [ Technical Specifications ](https://aralab.pt/en/produto/fitoclima-600-1200-stability-testing-chambers/)
    
@@ -19,18 +19,20 @@ tags: [ Stability Chamber, instructions ]
 
 #### Drainage: make sure the water hose is not kinked and the water drains and collects in a bucket.
 
-![ Main screen ](C:\Users\User\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)
+![Main screen](C:\Users\User\OneDrive - Haifa University\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg) 
+
 
 ## Alert system:
  You can connect a communication cable that enables receiving incoming notifications signals from your alarm system however make sure there is someone receiving them.
 
-![ Alarm ](C:\Users\User\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)
+![ Alarm ]([C:\Users\User\OneDrive - Haifa University\Documents\GitHub\RachelBober_Lab_Notebook\images](https://))
+
 
 As the power switch is turned on, a green light will appear on the screen, you must wait a bit and only then can you program the stability chamber.
 
 ## Programing: 
 
-![ Main menu ](C:\Users\User\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)
+![ Main menu ][(C:\Users\User\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)](https://)
 
 1. It is mandatory to make sure that the clock of the stability chamber is set, but if it is not, make sure to set according to the instructions in the device's manual.
 
