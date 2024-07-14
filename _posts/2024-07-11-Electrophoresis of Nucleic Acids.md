@@ -105,7 +105,7 @@ Remark: on this stage don't add buffer up to maximum level, only after loading y
 39.	While in main screen of the camera, switch off the camera.
 
 
-[ACER gel 2024-05-20](https://raw.githubusercontent.com/RachelBober/RachelBober_Lab_Notebook/master/images/ACER%20gel%202024-05-20.png)
+![ACER gel 2024-05-20](https://raw.githubusercontent.com/RachelBober/RachelBober_Lab_Notebook/master/images/ACER%20gel%202024-05-20.png)
 
 
 ## Cleaning
