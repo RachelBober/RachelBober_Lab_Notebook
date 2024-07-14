@@ -17,13 +17,17 @@ Unlike proteins, nucleic acids (being polyphosphoric acids) are all identically 
 ## Buffer preparation
 
 Prepare:
+
+
 ![1XTBE](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/1XTBE.png?raw=true)
+
 
 And dilute to 0.5XTBE buffer.
 
 ## Procedure
 
-![gel caster]()
+![gel caster](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/gel%20caster.png?raw=true)
+
 
  1.	Use leveling bubble to a sure that the gel caster device and gel stage of gel running device are being leveled, otherwise adjust leveling feet and place device in a proper leveled position. 
 2.	In 250 ml Erlenmeyer flask, weigh 1 grams of agarose powder (for small size gel weigh 0.5 grams of agarose powder).
@@ -36,17 +40,25 @@ Caution: wear protective gloves, safety glasses and lab coat.
 
 abm’s SafeView™ Classic - BioConsult, PO Box 7672, Jerusalem Israel 91076 Tel: 972-(0)2-5667043 Fax: 972-(0)2-5662790 Email: sales@bioconsult.co.il [Website](www.bioconsult.co.il) 
 
-![SafeView Classic]()
+![SafeView Classic](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/SafeView%20Classic.png?raw=true)
 
 8.	Swirl the flask gently to suspend the DNA Stains. 
 
-![UV transparent gel tray in the gel caster device]()
+
+
+![UV transparent gel tray in the gel caster device](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/UV%20transparent%20gel%20tray%20in%20the%20gel%20caster%20device.png?raw=true)
+
+
+
 
 10.	Pour gel solution on the sealed UV-transparent gel tray. Avoid bubbles.
 11.	Place a comb (it's in the drawer under the gel camera).
 12.	Wait 45 minutes until the gel solidify. 
 
-![Comb]()
+
+![Comb](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/Comb.png?raw=true)
+
+
 
 13.	 Take out the comb.
 14.	 Place gel on the leveled gel stage of the running device.
@@ -62,7 +74,16 @@ Remark: on this stage don't add buffer up to maximum level, only after loading y
 23.	Make sure that you see small size bubbles and that your samples are going out from the wells and runs properly in a straight line.
 24.	When the front line reaches to 2/3 of the gel, after 60 minutes or more, switch power off or press on pause bottom.
 
-![running device]()
+![running device](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/running%20device.png?raw=true)
+
+
+
+
+
+
+
+
+
 
 25.	Take the gel in the UV-transparent tray out from the running device. Leve buffer in the running device.
 26.	Transfer the gel out from the UV-transparent tray to a smooth transparent polypropylene plastic bag. Make sure the bag has no scratching and its UV-transparent. Avoid bubbles.
@@ -83,7 +104,9 @@ Remark: on this stage don't add buffer up to maximum level, only after loading y
 38.	Log out to main screen.
 39.	While in main screen of the camera, switch off the camera.
 
-[gel](image.jpg)
+
+[ACER gel 2024-05-20](https://raw.githubusercontent.com/RachelBober/RachelBober_Lab_Notebook/master/images/ACER%20gel%202024-05-20.png)
+
 
 ## Cleaning
 
