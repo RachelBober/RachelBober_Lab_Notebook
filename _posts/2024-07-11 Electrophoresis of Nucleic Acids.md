@@ -17,7 +17,7 @@ Unlike proteins, nucleic acids (being polyphosphoric acids) are all identically 
 ## Buffer preparation
 
 Prepare:
-![1XTBE]()
+![1XTBE](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/1XTBE.png?raw=true)
 
 And dilute to 0.5XTBE buffer.
 
@@ -36,11 +36,11 @@ Caution: wear protective gloves, safety glasses and lab coat.
 
 abm’s SafeView™ Classic - BioConsult, PO Box 7672, Jerusalem Israel 91076 Tel: 972-(0)2-5667043 Fax: 972-(0)2-5662790 Email: sales@bioconsult.co.il [Website](www.bioconsult.co.il) 
 
-![abm’s SafeView™ Classic]()
+![SafeView Classic]()
 
 8.	Swirl the flask gently to suspend the DNA Stains. 
 
-![UV-transparent gel tray in the gel caster device]()
+![UV transparent gel tray in the gel caster device]()
 
 10.	Pour gel solution on the sealed UV-transparent gel tray. Avoid bubbles.
 11.	Place a comb (it's in the drawer under the gel camera).
