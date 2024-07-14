@@ -85,11 +85,8 @@ Illumination - 10% of the illumination capacity
 300 minutes - be aware '300 minutes' means that the setting is for 5 hours until dark.
 
 ### Change in illumination conditions:
-|    <br>Seg 3    	|    <br>Seg 2    	|    <br>Seg 1    	|    <br>Seg 0    	|
-|---	|---	|---	|---	|
-|    <br>0   minutes In zero time, the Stability Chamber will stop working      	|    <br>720   minutes light (12Hr)     	|    <br>720   minutes dark (12Hr)    	|    <br> 300   minutes light<br>   <br> (5 Hr)     	|
-|    <br>100%   of full light    	|    <br>10%   of full light    	|    <br>0% of full light    	|    <br>10%   of full light    	|
 
+![Program #3](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/program%20%233.jpg?raw=true)
 
 
 ![set values](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/set%20values.jpg?raw=true)
