@@ -6,9 +6,10 @@ tags: [ Stability Chamber, instructions ]
 ---
 ### Stability Chambers- Fitoclima 600 AraLab  instructions
 
-![ Stability Chamber-
- Fitoclima 600 AraLab ](C:\Users\User\OneDrive - Haifa University\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)
+![Stability Chamber-
+ Fitoclima 600 AraLab](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/Stability%20Chambers-%20Fitoclima%20600%20AraLab.jpg?raw=true)
 
+ 
 ### Click here for [ Technical Specifications ](https://aralab.pt/en/produto/fitoclima-600-1200-stability-testing-chambers/)
    
 #### Israeli supplier: Lumitron
@@ -19,20 +20,18 @@ tags: [ Stability Chamber, instructions ]
 
 #### Drainage: make sure the water hose is not kinked and the water drains and collects in a bucket.
 
-![Main screen](C:\Users\User\OneDrive - Haifa University\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg) 
-
+![Main screen](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/Main%20screen.jpg?raw=true) 
 
 ## Alert system:
  You can connect a communication cable that enables receiving incoming notifications signals from your alarm system however make sure there is someone receiving them.
 
-![ Alarm ]([C:\Users\User\OneDrive - Haifa University\Documents\GitHub\RachelBober_Lab_Notebook\images](https://))
-
+![ Alarm ](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/Alarm.jpg?raw=true)
 
 As the power switch is turned on, a green light will appear on the screen, you must wait a bit and only then can you program the stability chamber.
 
 ## Programing: 
 
-![ Main menu ][(C:\Users\User\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)](https://)
+![ Main menu ](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/Main%20menu.jpg?raw=true)
 
 1. It is mandatory to make sure that the clock of the stability chamber is set, but if it is not, make sure to set according to the instructions in the device's manual.
 
@@ -50,9 +49,7 @@ ventilation
 
 gas concentration in ppm.
 
-![ Program Manger ](C:\Users\User\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)
-
-
+![Program Manger](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/Program%20manager.jpg?raw=true)
 
 ### How do you program?
 
@@ -79,7 +76,7 @@ ventilation - 60%
 
 It is also possible to determine the concentration of CO2 in ppm
 
-![ set values ](C:\Users\User\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)
+![ set values ](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/set%20values.jpg?raw=true)
 
 ## Selecting light/dark conditions: 
 
@@ -95,7 +92,7 @@ Illumination - 10% of the illumination capacity
 
 
 
-![ set values ](C:\Users\User\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)
+![set values](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/set%20values.jpg?raw=true)
 
 If a gradual transition from dark to light is desired, then choose 'Ramp' ON
 
@@ -105,4 +102,4 @@ To do this, click on the loop icon and Choose 'Repeat'
 
 Do not forget to enter a number, for example: 99 - that is, 99 days will pass until the program is stopped.
 
-![ Program status ](C:\Users\User\Documents\GitHub\RachelBober_Lab_Notebook\images.jpg)
+![Program status](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/Program%20status.jpg?raw=true)
