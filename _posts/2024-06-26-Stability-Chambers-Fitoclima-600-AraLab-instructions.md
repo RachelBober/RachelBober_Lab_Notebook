@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Stability Chamber- Fitoclima 600 AraLab  instructions updated 26.6.24
+title: Stability Chamber- Fitoclima 600 AraLab  instructions 
 category: [ equipment instructions ]
 tags: [ Stability Chamber, instructions ]
 ---
 ### Stability Chambers- Fitoclima 600 AraLab  instructions
+
+updated 26.6.24
 
 ![Stability Chamber-
  Fitoclima 600 AraLab](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/Stability%20Chambers-%20Fitoclima%20600%20AraLab.jpg?raw=true)
