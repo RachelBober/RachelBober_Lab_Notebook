@@ -197,29 +197,44 @@ SAP SKU: 7003027 shipping services SAP SKU: 6000231 (Order number 20048171 from 
 ## Or 
 
 select MANUAL on the lower left corner --> MEASURING INPUT 1
+
 Make sure that the option MEASURED QUANTITY: pH is selected
-Put the glass electrode in the desired buffer solution and press START
-On screen it will show the pH value that was measured
-Wash twice in DDW and proceed on with the second buffer solution.
-4.	Reservoir of 1 Liter of HCL 0.05N for seawater samples 
-       Purchase 2 ampoules of HCl Titrisol: One ampoule to keep and the other to dilute in liters of DDW and divide into two bottles of 1 liter each.
+
+Put the glass electrode in the desired buffer solution and press START On screen it will show the pH value that was measured Wash twice in DDW and proceed on with the second buffer solution.
+
+4.	Reservoir of 1 Liter of HCL 0.05N for seawater samples Purchase 2 ampoules of HCl Titrisol: One ampoule to keep and the other to dilute in liters of DDW and divide into two bottles of 1 liter each.
+
 HYDROCHLORIC ACID Hydrochloric acid for 1000 ml, c(HCl) = 0.1 mol/l (0.1 N) Titrisol
+
 SAP SKU: 7002926 Chemical Order number 20050598 from 10.7.2024 Supplier: Mercury Scientific and Industrial Products Ltd. 44045294
-5.	Acid calibration Dickson standard: CRM (Certified Reference Materials) for Oceanic CO2 Measurements Batch #
-       Do not place an order yourself but order through Jack Silverman from the Institute for Seas and Lakes Research. Once a year Jack orders a large quantity from the US and we offset it against him.
+
+5.	Acid calibration Dickson standard: CRM (Certified Reference Materials) for Oceanic CO2 Measurements Batch number Do not place an order yourself but order through Jack Silverman from the Institute for Seas and Lakes Research. Once a year Jack orders a large quantity from the US and we offset it against him.
+
 The glass bottles should be saved for reuse, because they are sent back to be filled in a special, temperature-controlled Styrofoam box to the US to Prof. Andrew G. Dickson.
+
 If you are ordering yourself then look for additional details in purchasing order 294129 dated 9.5.2017. Make sure that you fill out an up-to-date CRM order form and send it by FedEx in a special, temperature-controlled Styrofoam box to the USA, to:
+
 Prof. Andrew G. Dickson 
+
 Certified Reference Materials Laboratory
+
 Scripps Institution of Oceanography
+
 University of California, San Diego
 
+
 Andrew Dickson
+
 Deep Sea Drilling West Room 15 
+
 2215 Downwind Way 
+
 La Jolla, CA 92037
+
 co2crms@ucsd.edu
+
 858	534 8388
+
 6.	Spritzer bottle with DDW water
 7.	Metrohm plastic sample beakers 
 8.	Metrohm sample beakers, plastic (PP), 120 mL, 20 pieces 6.01400.200 Sample beakers, plastic (polypropylene, PP), 120 mL, suitable for 602041030 OMNIS sample rack, 20 pieces
