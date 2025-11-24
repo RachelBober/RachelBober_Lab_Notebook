@@ -25,7 +25,7 @@ The ISOLATE II Plant DNA Kit is designed for rapid purification of genomic DNA (
 
 #### Initial steps for Tissue Samples
 
-1.  Add **0.25mm glass beads** to an empty sterile eppendorf tube.
+1.  Add **0.25mm glass beads** to an empty sterile Eppendorf tube.
 2.  Use a blade razer and cut **25 mm** of a coral tissue sample.
 3.  Vortex at **max speed for 2 min**.
 4.  Transfer **400 µl** of the supernatant to a clean tube.
@@ -112,11 +112,11 @@ This is the setup for a **50 µl** reaction volume in a 0.2 ml PCR tube.
 | GoTaq® Green Master Mix, 2X | **25 µl** | 1X |
 | upstream primer (CS1F), 10µM | **5.0 µl** | 1.0 µM |
 | downstream primer (CS2R), 10µM | **5.0 µl** | 1.0 µM |
-| DNA template | **10.0 µl** | e.g., 52 ng, 55 ng, or 0.46 ng (based on $5.2 \text{ ng}/\mu \text{l}, 5.5 \text{ ng}/\mu \text{l}$ or $0.46 \text{ ng}/\mu \text{l}$ stocks) |
+| DNA template | **10.0 µl** | e.g., 52 ng, 55 ng, or 0.46 ng |
 | **BSA** | **5.0 µl** | - |
 | **H₂O** (Nuclease-free) | **-** | (Volume to bring total to 50 µl) |
 
-### 🌡️ PCR Program (ITS CS - 16\_NGS)
+### 🌡️ PCR Program (ITS CS - 16/_NGS)
 
 The program is run on a BioRad C1000 Touch Thermal Cycler.
 
@@ -149,14 +149,7 @@ The program is run on a BioRad C1000 Touch Thermal Cycler.
 
 1.  Fill the running device tanks with used **0.5X TBE buffer**.
 2.  Place the gel in the device and ensure the wells are submerged/filled with buffer.
-3.  Load **2 µl** of **EuRx Perfect 100bp DNA ladder** ($100 \text{ bp}-2500 \text{ bp}$) and **2 µl** of **1 kb DNA ladder**.
+3.  Load **2 µl** of **EuRx Perfect 100bp DNA ladder** (100bp-2500bp)  **2 µl** of **1 kb DNA ladder**.
 4.  Load **5 µl** of the PCR product sample into the wells.
 5.  Plug in the wires.
-6.  Set running time to **75 minutes** and voltage to **110 V** ($10 \text{ V}/\text{cm}$ of gel).
-```
-
-### Next Step
-
-This Markdown file is ready to be copied and pasted into a `.md` file for your GitHub repository or GitHub Pages site.
-
-Would you like me to make any specific modifications, such as adding a licensing section or a brief project description?
+6.  Set running time to **75 minutes** and voltage to **110 V** (10 V of cm gel).
