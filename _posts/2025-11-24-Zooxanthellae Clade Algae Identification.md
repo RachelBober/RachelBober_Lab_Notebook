@@ -12,7 +12,7 @@ The ISOLATE II Plant DNA Kit is designed for rapid purification of genomic DNA (
 
 * **Target:** Plant genomic DNA.
 * **Isolation Time:** ~30 minutes.
-* **Purity:** High-purity DNA (typical $A_{260}/A_{280}$ ratio $1.6 - 1.9$).
+* **Purity:** High-purity DNA (typical 260/280 ratio 1.6 to 1.9).
 * **Lysis Systems:** Contains optimized CTAB and SDS lysis buffers.
 * **Components:** Includes **RNase A** to remove RNA.
 * **Downstream Applications:** Suitable for PCR, qPCR, cloning, and NGS.
