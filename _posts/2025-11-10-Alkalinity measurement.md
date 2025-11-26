@@ -26,7 +26,6 @@ Due to the sensitivity of the titrator and the alkalinity measurement and in ord
 
 
 Prepare:
-![1XTBE](https://github.com/RachelBober/RachelBober_Lab_Notebook/blob/master/images/1XTBE.png?raw=true)
 
 1.	Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland( including a glass electrode) Metrohm, Switzerland).
 2.	Laptop with Tiamo software
