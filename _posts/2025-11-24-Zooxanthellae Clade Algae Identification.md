@@ -1,5 +1,3 @@
-# 🦠 Zooxanthellae Clade (Algae) Identification Protocol
-
 This document outlines the laboratory procedure for identifying the clade of **Zooxanthellae** (symbiotic algae, primarily *Symbiodiniaceae*) associated with coral tissue. The protocol involves **gDNA extraction** using the ISOLATE II Plant DNA Kit, followed by **PCR** amplification of the **ITS2** region, and visualization via **Agarose Gel Electrophoresis**.
 
 ---
