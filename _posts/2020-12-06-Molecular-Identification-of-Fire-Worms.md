@@ -1,4 +1,3 @@
-# Molecular Identification of Fire Worms  
 *Date: 28.1.2025*  
 
 ---
