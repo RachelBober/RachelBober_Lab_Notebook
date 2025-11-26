@@ -1,9 +1,4 @@
-*Date: 28.1.2025*  
-
----
-
-## Sample Preparation  
-- **Extraction date:** 27.1.25  
+## 🧪 Sample Preparation   
 - **Kit used:** Quick DNA/RNA Miniprep Plus Kit (Zymo Research)  
 - **Storage:** Worms stored at -20 °C in EtOH  
 - **Steps:**  
@@ -17,7 +12,7 @@
 
 ---
 
-## NanoDrop Results  
+## 📊 NanoDrop Results  
 | Sample | Date | Conc. (ng/µl) | 260/280 | 260/230 |
 |--------|------|---------------|---------|---------|
 | J1     | 12/6/23 | 98.3 | 1.91 | 2.05 |
@@ -29,7 +24,7 @@
 
 ---
 
-## DNA Template Dilutions  
+## 🧬 DNA Template Dilutions  
 - **J1:** 1:5 → 19.66 ng/µl  
 - **J18:** 1:1.5 → 21.53 ng/µl  
 - **J16:** 1:8 → 20.3 ng/µl  
@@ -41,7 +36,7 @@
 
 ---
 
-## Primers  
+## 🔬 Primers  
 - **Folmer et al., 1994** (Tm: 55 °C)  
   - LCO1490: `5'-ggtcaacaaatcataaagatattgg-3'`  
   - HC02198: `5'-taaacttcagggtgaccaaaaaatca-3'`  
@@ -51,7 +46,7 @@
 
 ---
 
-## PCR Setup  
+## ⚗️ PCR Setup  
 **Reaction volume: 25 µl**  
 | Component | Volume (1X) | Final Conc. |
 |-----------|-------------|-------------|
@@ -71,7 +66,7 @@
 
 ---
 
-## Gel Electrophoresis  
+## 🧫 Gel Electrophoresis  
 - **Gel:** 1% agarose in 0.5X TBE + RedSafe  
 - **Run:** 40 min at 110 V  
 - **Ladders:** 1 kb Perfect Plus, 100 bp Perfect DNA ladder  
@@ -81,7 +76,7 @@
 
 ---
 
-## Sequencing Setup  
+## 📑 Sequencing Setup  
 | Sample | Service | Primer | Size | Conc. |
 |--------|---------|--------|------|-------|
 | Fireworm J1 | PCR clean‑up + sequencing | djLCO1490 | 700 bp | 4 ng/µl |
@@ -99,7 +94,7 @@
 
 ---
 
-## BLAST Results  
+## 🧾 BLAST Results  
 
 ### Sample J15  
 - **Top hit:** *Hermodice carunculata* (marine fireworm) – 98.79% identity, 96% coverage  
@@ -111,7 +106,7 @@
 
 ---
 
-## Summary  
+## ✅ Summary  
 - Successful gDNA extraction and PCR amplification of fireworm samples.  
 - Sequencing confirmed species identity:  
   - **J15 → Hermodice carunculata** (marine fireworm)  
