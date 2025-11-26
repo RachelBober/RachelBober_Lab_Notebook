@@ -92,7 +92,7 @@ The goal is to:
 - **Lane order:**  
   - Lanes 3–10: Folmer primers (J1, J18, J16, Small worms, J15, 1‑02, Stylophora, NTC)  
   - Lanes 11–18: Degenerative primers (same sample set)  
-![gel](C:\Users\rbober1\OneDrive - University of Haifa\Documents\GitHub\RachelBober_Lab_Notebook\images)
+![gel](https://univstaff-my.sharepoint.com/:i:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/Slide1.PNG?csf=1&web=1&e=6d6SrX)
 ---
 
 ## 📑 Sequencing Setup  
