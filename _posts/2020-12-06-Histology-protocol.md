@@ -1,5 +1,3 @@
-# Histology Protocol
-
 ## Fixation
 1. 1.5 ml FSW (0.2 µm filtered seawater) in a 15 ml tube (for small fragments).
 2. Cut the sample into approximately 2 cm fragments and place them in the tube.
