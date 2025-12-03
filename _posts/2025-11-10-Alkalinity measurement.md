@@ -125,11 +125,10 @@ Slope 983%
 Variance 1.729
 Calibration temperature (manual) 22.0 ◦C
 
-             pH   	 U (mV)	 T(◦C)  T (s)
-Buffer 1	3.994	198.2     22.0  140
-Buffer 2	7.012	25.9      22.0  87	
-Buffer 3	9.024	-91.7     22.0  37
-	
+Buffer 1 pH= 3.994 U (mV)=198.2 T(◦C)= 22.0 T(s)= 140
+Buffer 2 pH= 7.012 U (mV)=25.9  T(◦C)= 22.0 T(s)= 87
+Buffer 3 pH= 9.024 U(mV)= -91.7 T(◦C)= 22.0 T(s)= 37
+
 
 15.	If the slope values are between 96-103% and the gap between pH 3 to pH 7 is 170 mV then the device is ready for samples' measurements.
 16.	Remove the cups containing the buffers and close them with the lids.
