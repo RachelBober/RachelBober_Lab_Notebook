@@ -8,9 +8,9 @@ tags: [ pH titator, Alkalinity ]
 Updated 10-11-2025 
 by: Rachel Bober
 
-This protocol is based on Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland) including a glass electrode  [Metrohm, Switzerland](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/81018070EN.pdf?csf=1&web=1&e=QuP9Kr)  
-
- And [tiamo 2.5 software](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/88558001EN.pdf?csf=1&web=1&e=V3ObJ0)
+This protocol is based on [Robotic Titrosampler 855 titration system](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/88558001EN.pdf?csf=1&web=1&e=V3ObJ0)
+ connected to 800 Dosino (Metrohm, Switzerland) including a glass electrode  (Metrohm, Switzerland).
+ And [tiamo 2.5 software](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/81018070EN.pdf?csf=1&web=1&e=QuP9Kr)  
 
 ## General Comments
 - Due to the sensitivity of the titrator and the alkalinity measurement and in order to prevent unnecessary malfunctions, the analyses will be performed only while another person is present in the room.
