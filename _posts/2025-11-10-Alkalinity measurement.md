@@ -252,15 +252,14 @@ co2crms@ucsd.edu
 
 6.	Spritzer bottle with DDW water
 7.	Metrohm plastic sample beakers 
-8.	[Metrohm sample beakers, plastic (PP), 120 mL, 20 pieces 6.01400.200 Sample beakers, plastic (polypropylene, PP), 120 mL, suitable for 602041030 OMNIS sample rack, 20 pieces](file://C:/Users/rbober1/OneDrive%20-%20University%20of%20Haifa/Documents/Rachel's%20Laboratory%20Notebook/Protocols/Alkalinity%20titrator/Titrator/Sample%20beakers%20plastic%20120%20mL_suitable%20for%20602041030%20OMNIS%20sample%20rack_601400200.pdf)
-
-Metrohm Buffer solutions pH 4, 7 and 9  (25 °C) in single use sachets, colourless, box of 3 x 10 x 30 mL 62307230  OR Buffer Solution pH4 (30x30mL) 62307200 Buffer Solution pH7 (30x30mL) 62307210  Buffer Solution pH9 (30x30mL) 62307220  SAP SKU: 7002932 Shipping Services SAP SKU: 6000231 (Order Number 20048171 from    6.5.2024 Supplier: ISI Ltd. 44024787).     
-9.	Large Beaker to be used for excess
-10.	Mertrohm 62323000 storage solution for pH glass electrodes with KCl 3 mol/L as electrolyte
+8.	Metrohm sample beakers, plastic (PP), 120 mL, 20 pieces 6.01400.200 Sample beakers, plastic (polypropylene, PP), 120 mL, suitable for 602041030 OMNIS sample rack, 20 pieces
+9. Metrohm Buffer solutions pH 4, 7 and 9  (25 °C) in single use sachets, colourless, box of 3 x 10 x 30 mL 62307230  OR Buffer Solution pH4 (30x30mL) 62307200 Buffer Solution pH7 (30x30mL) 62307210  Buffer Solution pH9 (30x30mL) 62307220  SAP SKU: 7002932 Shipping Services SAP SKU: 6000231 (Order Number 20048171 from    6.5.2024 Supplier: ISI Ltd. 44024787).     
+10.	Large Beaker to be used for excess
+11.	Mertrohm 62323000 storage solution for pH glass electrodes with KCl 3 mol/L as electrolyte
 ### Make sure that the filler opening is close while in storage!!!
-11.	Kimwipes
-12.	50 mL no needle Luer-Lock™ sterile syringe for single use 
-13.	Disposable sterilized individually syringe filters 0.45 micron-meters
-14.	Two thin tubes for connecting to the syringe and filter
-15.	Permanent marker
-16.	110 ml dark glass sampling bottles with plastic screw caps (this volume is enough for 3 repetitions)
+12.	Kimwipes
+13.	50 mL no needle Luer-Lock™ sterile syringe for single use 
+14.	Disposable sterilized individually syringe filters 0.45 micron-meters
+15.	Two thin tubes for connecting to the syringe and filter
+16.	Permanent marker
+17.	110 ml dark glass sampling bottles with plastic screw caps (this volume is enough for 3 repetitions)
