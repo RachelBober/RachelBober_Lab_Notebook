@@ -8,12 +8,9 @@ tags: [ pH titator, Alkalinity ]
 Updated 10-11-2025 
 by: Rachel Bober
 
-This protocol is based on Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland) including a glass electrode  [Metrohm, Switzerland]
-(file://C:/Users/rbober1/OneDrive%20-%20University%20of%20Haifa/Documents/Rachel's%20Laboratory%20Notebook/Protocols/Alkalinity%20titrator/Titrator/88558001EN.pdf)  
+This protocol is based on Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland) including a glass electrode  [Metrohm, Switzerland](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/81018070EN.pdf?csf=1&web=1&e=QuP9Kr)  
 
- And [tiamo 2.5 software]
- (https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/88558001EN.pdf?csf=1&web=1&e=V3ObJ0)
-
+ And [tiamo 2.5 software](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/88558001EN.pdf?csf=1&web=1&e=V3ObJ0)
 
 ## General Comments
 - Due to the sensitivity of the titrator and the alkalinity measurement and in order to prevent unnecessary malfunctions, the analyses will be performed only while another person is present in the room.
@@ -31,8 +28,7 @@ Prepare:
 2.	Laptop with Tiamo software
 3.	For saving files – Disk on key
 4.	Analytical balance with an accuracy of 0.001 grams.
-5.	MANUAL pH measurements (see details below) or External pH bench meter for compresence - [Adwa User Manual for pH/mV/ISE/Temperature Bench Meters AD1030]
-(https://www.adwainstruments.com)
+5.	MANUAL pH measurements (see details below) or External pH bench meter for compresence - [Adwa User Manual for pH/mV/ISE/Temperature Bench Meters AD1030](https://www.adwainstruments.com)
 6.	Reservoir of 1 Liter of HCL 0.05N for seawater samples 
 HCl Titrisol: One ampoule to keep and the other to dilute in 2 liters of DDW and divide into two bottles of 1 liter each.
 HYDROCHLORIC ACID Hydrochloric acid for 1000 ml, c(HCl) = 0.1 mol/l (0.1 N) Titrisol
@@ -203,11 +199,9 @@ Add 0.5 Liter HCl 0.1N
 
 1.	Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland).
 2.	LL-Ecotrode Plus WOC 60256100 Glass electrode 
-SAP SKU: 7003027 shipping services SAP SKU: 6000231 Order number 20048171 from 6.5.2024 Supplier 44002737:[ISI, Israel Scientific Instruments Ltd.]
-(https://www.isil.co.il/)
+SAP SKU: 7003027 shipping services SAP SKU: 6000231 Order number 20048171 from 6.5.2024 Supplier 44002737:[ISI, Israel Scientific Instruments Ltd.](https://www.isil.co.il/)
 03-9232202.
-3. [Adwa User Manual for pH/mV/ISE/Temperature Bench Meters AD1030]
-(https://www.adwainstruments.com) 
+3. [Adwa User Manual for pH/mV/ISE/Temperature Bench Meters AD1030](https://www.adwainstruments.com) 
 
 ## Or 
 
@@ -243,8 +237,7 @@ co2crms@ucsd.edu
 
 6.	Spritzer bottle with DDW water
 7.	Metrohm plastic sample beakers 
-8.	[Metrohm sample beakers, plastic (PP), 120 mL, 20 pieces 6.01400.200 Sample beakers, plastic (polypropylene, PP), 120 mL, suitable for 602041030 OMNIS sample rack, 20 pieces]
-(file://C:/Users/rbober1/OneDrive%20-%20University%20of%20Haifa/Documents/Rachel's%20Laboratory%20Notebook/Protocols/Alkalinity%20titrator/Titrator/Sample%20beakers%20plastic%20120%20mL_suitable%20for%20602041030%20OMNIS%20sample%20rack_601400200.pdf)
+8.	[Metrohm sample beakers, plastic (PP), 120 mL, 20 pieces 6.01400.200 Sample beakers, plastic (polypropylene, PP), 120 mL, suitable for 602041030 OMNIS sample rack, 20 pieces](file://C:/Users/rbober1/OneDrive%20-%20University%20of%20Haifa/Documents/Rachel's%20Laboratory%20Notebook/Protocols/Alkalinity%20titrator/Titrator/Sample%20beakers%20plastic%20120%20mL_suitable%20for%20602041030%20OMNIS%20sample%20rack_601400200.pdf)
 
 Metrohm Buffer solutions pH 4, 7 and 9  (25 °C) in single use sachets, colourless, box of 3 x 10 x 30 mL 62307230  OR Buffer Solution pH4 (30x30mL) 62307200 Buffer Solution pH7 (30x30mL) 62307210  Buffer Solution pH9 (30x30mL) 62307220  SAP SKU: 7002932 Shipping Services SAP SKU: 6000231 (Order Number 20048171 from    6.5.2024 Supplier: ISI Ltd. 44024787).     
 9.	Large Beaker to be used for excess
