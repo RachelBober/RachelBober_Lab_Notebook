@@ -8,18 +8,13 @@ tags: [ pH titator, Alkalinity ]
 Updated 10-11-2025 
 by: Rachel Bober
 
-This protocol is based on Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland) including a glass electrode (Metrohm, Switzerland).
+This protocol is based on Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland) including a glass electrode (Metrohm, Switzerland)![https://www.metrohm.com/en/products/2/8550/28550010.html]() and tiamo 2.5 software![file:///C:/Users/rbober1/OneDrive%20-%20University%20of%20Haifa/Documents/Rachel's%20Laboratory%20Notebook/Protocols/Alkalinity%20titrator/Titrator/81018070EN.pdf]()
 
 ## General Comments
-Due to the sensitivity of the titrator and the alkalinity measurement and in order to prevent unnecessary malfunctions, the analyses will be performed only during working hours (08:00-16:00) and by prior arrangement, so that another person is present in the room.
-*Seawater samples can be stored for several weeks in the refrigerator until measurement.
+- Due to the sensitivity of the titrator and the alkalinity measurement and in order to prevent unnecessary malfunctions, the analyses will be performed only while another person is present in the room.
+- Seawater samples can be stored for several weeks in the refrigerator until measurement.
 *Ensure that all samples and buffers are allowed to equilibrate to room temperature prior to use.
 - Since you are working with acid. You must wear a lab coat, nitrile gloves always, before starting the experiment. 
--Safety Goggles is optional. 
--Do not bring any food or drink into the laboratory!!!
-- Do not touch or use tools, devices and materials not related to alkalinity measurement!!!
-- Please maintain order and cleanliness!
-
 
 
 ## Materials and equipment
@@ -27,11 +22,11 @@ Due to the sensitivity of the titrator and the alkalinity measurement and in ord
 
 Prepare:
 
-1.	Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland( including a glass electrode) Metrohm, Switzerland).
+1.	Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland) including a glass electrode (Metrohm, Switzerland).
 2.	Laptop with Tiamo software
 3.	For saving files – Disk on key
 4.	Analytical balance with an accuracy of 0.001 grams.
-5.	MANUAL pH measurements (see details below) or External pH bench meter for compresence - Adwa User Manual for pH/mV/ISE/Temperature Bench Meters AD1030 ![https://www.adwainstruments.com]() 
+5.	MANUAL pH measurements (see details below) or External pH bench meter for compresence - Adwa User Manual for pH/mV/ISE/Temperature Bench Meters AD1030 ![[https://www.adwainstruments.com]]() 
 6.	Reservoir of 1 Liter of HCL 0.05N for seawater samples 
 HCl Titrisol: One ampoule to keep and the other to dilute in 2 liters of DDW and divide into two bottles of 1 liter each.
 HYDROCHLORIC ACID Hydrochloric acid for 1000 ml, c(HCl) = 0.1 mol/l (0.1 N) Titrisol
@@ -40,7 +35,10 @@ HYDROCHLORIC ACID Hydrochloric acid for 1000 ml, c(HCl) = 0.1 mol/l (0.1 N) Titr
 9.	Metrohm 120 ml plastic sample beakers 
 10.	Metrohm Buffer solutions pH 4, 7 and 9  (25 °C) in single use sachets, colourless, box of 3 x 10 x 30 mL 62307230 
 11.	 Large Beaker to be used for excess
-12.	Mertrohm 62323000 storage solution for pH glass electrodes with KCl 3 mol/L as electrolyte Make sure that the filler opening is close while in storage!!!
+12.	Mertrohm 62323000 storage solution for pH glass electrodes with KCl 3 mol/L as electrolyte
+
+#### Make sure that the filler opening is close while in storage!!!
+
 13.	Kimwipes
 14.	50 mL no needle Luer-Lock™ sterile syringe for single use 
 15.	Disposable sterilized individually syringe filters 0.45 micron-meters
@@ -55,11 +53,14 @@ HYDROCHLORIC ACID Hydrochloric acid for 1000 ml, c(HCl) = 0.1 mol/l (0.1 N) Titr
 2.	After rinsing, sampling will be done by inserting the tube into the bottom of the bottle and releasing the water through the tube in such a way that the water level in the bottle slowly rises. At the end of filling, the sample water should be allowed to flow out of the bottle, remove the tube while the water flows out and close the bottle with a stopper.
 3.	The samples should be kept in a cool, shaded place until they reach the laboratory, then the samples should be stored in a refrigerator at 4 degrees Celsius.
 
-##Before starting the experimental procedure
+## Before starting the experimental procedure
 1.	Remove the samples from the refrigerator and wait until they reach room temperature.
 2.	Make sure that the waste tank is empty and that at least one third of the DDW water tank is full (the large caps should be left slightly open).
 3.	Connect the Disk on key to the keyboard.
-Important: Connecting and disconnecting the Disk on key must only be done when the device is turned off, otherwise the software will freeze.
+## Important: 
+#### Connecting and disconnecting the Disk on key must only be done when the device is turned off, otherwise the software will freeze.
+
+
 4.	 Turn on the device, the pump and the analytical balance.
 5.	 Shake the bottle containing the titrator to mix the HCl.
 6.	6. Do not forget to fill the beaker in the Special position with DDW double distilled water and make sure that the water level is high enough.
@@ -80,8 +81,11 @@ Important: Connecting and disconnecting the Disk on key must only be done when t
 
 ## Electrode calibration
 
-1.	Calibration must be performed before starting work
-Important! Do not expose the electrode to air for more than a few minutes. 
+- Calibration must be performed before starting work
+## Important!
+### Do not expose the electrode to air for more than a few minutes.
+
+
 If you take a long break (over 10 minutes) from work, immerse the electrode in undiluted seawater and make sure the level in the beaker is high enough.
 Prepare the electrode: Open the cap that closes the hole on the top of the electrode (The filler opening)
 2.	Check the level of the electrolyte solution inside the electrode. The electrolyte level should reach 0.5 cm below the hole. If the level is lower, add 3M KCl storage solution.
@@ -117,12 +121,13 @@ T [s]	T[◦C]	U [mV]	pH
 18.	The buffers will be replaced at least once a month.
 
 ## Titration of the samples
-1.	Mixing the sample.
-2.	Weigh the sample as follows: Place the cup on the scales and zero it.
-3.	Aspirate a small amount of the sample using the syringe and tube and rinse the inside of the syringe.
-4.	Aspirate approximately 35 ml of the sample again, screw a 45 micron spinner filter onto the syringe and release approximately 33.5 ml (minimum 32.5 ml) into the beaker. Make sure that there are no drops on the side of the beaker and if they have to be collected, these drops will be included in the sample weight but will not participate in the titration.
-5. Record the bottle number and sample weight.
-6. Weigh 11 samples, as described in sections 1-5 and place them on the carousel in positions 1-11 (according to the recording). Return to the MENU by pressing BACK and using the arrows select:
+1.	Remamber to remove the samples from the refrigerator and wait until they reach room temperature.
+2. Mixing the sample.
+3.	Weigh the sample as follows: Place the cup on the scales and zero it.
+4.	Aspirate a small amount of the sample using the syringe and tube and rinse the inside of the syringe.
+5.	Aspirate approximately 35 ml of the sample again, screw a 45 micron spinner filter onto the syringe and release approximately 33.5 ml (minimum 32.5 ml) into the beaker. Make sure that there are no drops on the side of the beaker and if they have to be collected, these drops will be included in the sample weight but will not participate in the titration.
+6. Record the bottle number and sample weight.
+7. Weigh 11 samples, as described in sections 1-5 and place them on the carousel in positions 1-11 (according to the recording). Return to the MENU by pressing BACK and using the arrows select:
 METHOD  -->OK
 Using the arrows, select the desired method, for example: AT1-START-V2 and press OK
 Return to the MENU by pressing BACK and using the arrows select:
@@ -145,7 +150,8 @@ Sample table  --> OK  --> ON  --> OK  --> Start
 At this point, the samples are automatically weighed and the next set can be weighed and the steps repeated.
 
 ## At the end of the work:
-1.	The electrode's diaphragm must be immersed in the storage solution. The filler opening for the reference or bridge electrolyte must be closed!! 
+1.	The electrode's diaphragm must be immersed in the storage solution. 
+- #### The filler opening for the reference or bridge electrolyte must be closed!! 
 2.	Use the pump to wash the titration station - electrode, tip, and stirrer and finally pump out the water, wipe the beaker and return the electrode to the test tube containing the preservation liquid.
 3.	The sample beaker must be emptied and wiped, and the entire lift assembly (stirrer, tip, etc.) must also be wiped.
 4.	Turn off the titrator (long press), the pump and the scales (before turning off the titrator, make sure that the titration station - Lift is down).
@@ -156,9 +162,10 @@ At this point, the samples are automatically weighed and the next set can be wei
 
 ## Troubleshooting and recommendations
 
-## A.	It is recommended to order a calibration from the company once a year.
+### A.	
+- It is recommended to order a calibration from the company once a year.
 
-## B.	Manual pH measurements:
+### B.	Manual pH measurements:
 1.	On the computer screen in the lower left panel select MANUAL --> MEASURING INPUT 1
 2.	Make sure that the option MEASURED QUANTITY: pH is selected
 3.	Fill sample beaker with about 2 envelopes of the desired pH buffer solution (volume should be enough for electrode to be immerse)
@@ -169,7 +176,7 @@ At this point, the samples are automatically weighed and the next set can be wei
 8.	Wash twice the electrode in DDW and proceed on to measure the second buffer solution and the third.
 9.	Wash twice the electrode in DDW.
 
-## C. Electrode treatment (to improve repeatability):
+### C. Electrode treatment (to improve repeatability):
 1.	Soak in the supplier's cleaning fluid for about half an hour while stirring and finally rinse with DDW
 2.	Soak in a 3M KCl solution: 22.36 g KCl in 100 ml DDW for half an hour while stirring and finally rinse with DDW.
 3.	Drain the electrode from the electrolyte and refill.
@@ -181,7 +188,7 @@ At this point, the samples are automatically weighed and the next set can be wei
 Add 0.5 Liter HCl 0.1N
 
 
-## Formula for calculating alkalinity:
+### Formula for calculating alkalinity:
 
 (100,000,000 X acid concentration X acid volume in ml in inflection point)/ Sample weigh in grams
 
@@ -190,8 +197,9 @@ Add 0.5 Liter HCl 0.1N
 
 1.	Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland).
 2.	LL-Ecotrode Plus WOC 60256100 Glass electrode 
-SAP SKU: 7003027 shipping services SAP SKU: 6000231 (Order number 20048171 from 6.5.2024 Supplier 44002737: ISI, Israel Scientific Instruments Ltd.  www.isil.co.il  03-9232202).
-3.	Adwa User Manual for pH/mV/ISE/Temperature Bench Meters AD1030 www.adwainstruments.com
+SAP SKU: 7003027 shipping services SAP SKU: 6000231 (Order number 20048171 from 6.5.2024 Supplier 44002737: ISI, Israel Scientific Instruments Ltd. ![(https://www.isil.co.il/)]()
+   03-9232202).
+3.	Adwa User Manual for pH/mV/ISE/Temperature Bench Meters AD1030  ![[https://www.adwainstruments.com]]() 
 
 ## Or 
 
@@ -214,37 +222,27 @@ The glass bottles should be saved for reuse, because they are sent back to be fi
 If you are ordering yourself then look for additional details in purchasing order 294129 dated 9.5.2017. Make sure that you fill out an up-to-date CRM order form and send it by FedEx in a special, temperature-controlled Styrofoam box to the USA, to:
 
 Prof. Andrew G. Dickson 
-
 Certified Reference Materials Laboratory
-
 Scripps Institution of Oceanography
-
 University of California, San Diego
 
-
 Andrew Dickson
-
 Deep Sea Drilling West Room 15 
-
 2215 Downwind Way 
-
 La Jolla, CA 92037
-
 co2crms@ucsd.edu
-
 858	534 8388
 
 6.	Spritzer bottle with DDW water
 7.	Metrohm plastic sample beakers 
-8.	Metrohm sample beakers, plastic (PP), 120 mL, 20 pieces 6.01400.200 Sample beakers, plastic (polypropylene, PP), 120 mL, suitable for 602041030 OMNIS sample rack, 20 pieces
+8.	Metrohm sample beakers, plastic (PP), 120 mL, 20 pieces 6.01400.200 Sample beakers, plastic (polypropylene, PP), 120 mL, suitable for 602041030 OMNIS sample rack, 20 pieces ![file:///C:/Users/rbober1/OneDrive%20-%20University%20of%20Haifa/Documents/Rachel's%20Laboratory%20Notebook/Protocols/Alkalinity%20titrator/Titrator/Sample%20beakers%20plastic%20120%20mL_suitable%20for%20602041030%20OMNIS%20sample%20rack_601400200.pdf]() 
 Metrohm Buffer solutions pH 4, 7 and 9  (25 °C) in single use sachets, colourless, box of 3 x 10 x 30 mL 62307230  OR Buffer Solution pH4 (30x30mL) 62307200 Buffer Solution pH7 (30x30mL) 62307210  Buffer Solution pH9 (30x30mL) 62307220  SAP SKU: 7002932 Shipping Services SAP SKU: 6000231 (Order Number 20048171 from    6.5.2024 Supplier: ISI Ltd. 44024787).     
 9.	Large Beaker to be used for excess
-10.	Mertrohm 62323000 storage solution for pH glass electrodes with KCl 3 mol/L as electrolyte Make sure that the filler opening is close while in storage!!!
+10.	Mertrohm 62323000 storage solution for pH glass electrodes with KCl 3 mol/L as electrolyte
+### Make sure that the filler opening is close while in storage!!!
 11.	Kimwipes
 12.	50 mL no needle Luer-Lock™ sterile syringe for single use 
 13.	Disposable sterilized individually syringe filters 0.45 micron-meters
 14.	Two thin tubes for connecting to the syringe and filter
 15.	Permanent marker
 16.	110 ml dark glass sampling bottles with plastic screw caps (this volume is enough for 3 repetitions)
-
-
