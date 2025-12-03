@@ -10,8 +10,9 @@ by: Rachel Bober
 
 This protocol is based on Robotic Titrosampler 855 titration system connected to 800 Dosino (Metrohm, Switzerland) including a glass electrode  [Metrohm, Switzerland]
 (file://C:/Users/rbober1/OneDrive%20-%20University%20of%20Haifa/Documents/Rachel's%20Laboratory%20Notebook/Protocols/Alkalinity%20titrator/Titrator/88558001EN.pdf)  
- and [tiamo 2.5 software]
- (file://C:/Users/rbober1/OneDrive%20-%20University%20of%20Haifa/Documents/Rachel's%20Laboratory%20Notebook/Protocols/Alkalinity%20titrator/Titrator/81018070EN.pdf)
+
+ And [tiamo 2.5 software]
+ (https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/88558001EN.pdf?csf=1&web=1&e=V3ObJ0)
 
 
 ## General Comments
