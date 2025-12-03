@@ -126,7 +126,9 @@ Variance 1.729
 Calibration temperature (manual) 22.0 ◦C
 
 Buffer 1 pH= 3.994 U (mV)=198.2 T(◦C)= 22.0 T(s)= 140
+
 Buffer 2 pH= 7.012 U (mV)=25.9  T(◦C)= 22.0 T(s)= 87
+
 Buffer 3 pH= 9.024 U(mV)= -91.7 T(◦C)= 22.0 T(s)= 37
 
 
