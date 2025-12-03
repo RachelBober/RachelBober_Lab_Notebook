@@ -10,7 +10,16 @@ by: Rachel Bober
 
 This protocol is based on [Robotic Titrosampler 855 titration system](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/88558001EN.pdf?csf=1&web=1&e=V3ObJ0)
  connected to 800 Dosino (Metrohm, Switzerland) including a glass electrode  (Metrohm, Switzerland).
- And [tiamo 2.5 software](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/81018070EN.pdf?csf=1&web=1&e=QuP9Kr)  
+ And [tiamo 2.5 software](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/81018070EN.pdf?csf=1&web=1&e=QuP9Kr)
+
+ ## Spesific Parameters for software settings:
+
+[Alkalinity method parameters](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/Alkalinity_Op%20Method%20parameters.pdf?csf=1&web=1&e=5N5ofF) 
+[Alkalinity method run](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/Alkalinity_Op%20Method%20run.pdf?csf=1&web=1&e=2vEFUB) 
+[Alkalinity titration and measuring](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/Alkalinity_Op%20Titration%20and%20Measuring.pdf?csf=1&web=1&e=vACKWE) 
+[Calibration method parameters](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/Caliberation%20Method%20parameters.pdf?csf=1&web=1&e=mguU08) 
+[Calibration method run](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/Caliberation%20Method%20run.pdf?csf=1&web=1&e=tUCNHv) 
+[Calibration titration and measuring](https://univstaff-my.sharepoint.com/:b:/r/personal/rbober_univ_haifa_ac_il/Documents/Documents/GitHub/RachelBober_Lab_Notebook/images/Caliberation%20Titration%20and%20measuring.pdf?csf=1&web=1&e=XoYFtd)
 
 ## General Comments
 - Due to the sensitivity of the titrator and the alkalinity measurement and in order to prevent unnecessary malfunctions, the analyses will be performed only while another person is present in the room.
